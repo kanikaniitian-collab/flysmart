@@ -1,0 +1,6 @@
+{
+  "name": "Flysmart Travel Agency",
+  "description": "A modern corporate website for Flysmart Travel and Tour with immersive designs, fluid motion, travel booking services, partner carousel, and a complete multi-page interactive prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
